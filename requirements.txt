@@ -1,0 +1,9 @@
+# pip install -r requirements.txt
+
+pytorch==2.4.0
+jupyter==1.1.1
+tensorboard
+scipy
+matplotlib
+python==3.8.19
+numpy==1.24.4
